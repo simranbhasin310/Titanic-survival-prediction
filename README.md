@@ -35,3 +35,22 @@ Random Forest performed the best among the three models. See the notebook for de
 ## What I Learned
 
 This project helped me understand the full data science workflow — from raw data to a working, evaluated model — including handling missing data, encoding categorical variables, and comparing model performance.
+
+---
+
+## 👩‍💻 Author
+
+**Simran Bhasin**
+📧 Email: simranbhasin310@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/simranbhasin310  
+🐙 GitHub: https://github.com/simranbhasin310
+
+---
+
+## ⭐ Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
+
+## 📜 License
+
+This project is created for educational and portfolio purposes.
